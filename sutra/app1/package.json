@@ -1,5 +1,5 @@
 {
-  "name": "start",
+  "name": "app1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,9 +7,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "0.9.5"
   },
-  "devDependencies": {
-    "react-boost": "^1.1.0"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
