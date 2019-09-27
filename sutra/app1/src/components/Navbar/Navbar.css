@@ -1,0 +1,13 @@
+.navbar {
+  grid-area: n;
+  background-color: mistyrose;
+  width: 100%;
+}
+
+.navbar_item {
+  color: blue;
+}
+
+.navbar_item.active {
+  color: green;
+}
